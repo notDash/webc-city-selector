@@ -1,0 +1,25 @@
+{
+  "name": "webc-city-selector",
+  "version": "1.0.0",
+  "description": "The city selector based on web component. (基于 web component 的城市选择组件)",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notDash/webc-city-selector.git"
+  },
+  "keywords": [
+    "Web",
+    "Component",
+    "city",
+    "selector"
+  ],
+  "author": "lishengyong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/notDash/webc-city-selector/issues"
+  },
+  "homepage": "https://github.com/notDash/webc-city-selector#readme"
+}
